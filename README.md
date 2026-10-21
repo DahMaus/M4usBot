@@ -39,4 +39,4 @@ AI was used for debugging
 
 Made by me, dahmaus :D
 
-Written in JavaScript using Node.js and Slack Bolt with love &lt;3
+Written in JavaScript using Node.js with love <3
