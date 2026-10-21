@@ -12,8 +12,8 @@ A small Slack bot featuring fun commands, random answers, coin flips and dice ro
 
 ## Features
 
-- **Ping** (`/mausbot-ping`): Check the bot's response latency
-- **Help** (`/mausbot-help`): Display all available commands
+- **Ping** (`/mausbot-ping`): Check the bot's ping
+- **Help** (`/mausbot-help`): Display all commands
 - **SlopBall** (`/mausbot-slopball`): Ask SlopBall a question and get a random answer
 - **Coinflip** (`/mausbot-coinflip`): Pick Heads or Tails and see if you win!
 - **Dice** (`/mausbot-dice`): Roll a dice between 1 and 6
