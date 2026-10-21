@@ -20,6 +20,7 @@ app.command("/mausbot-help", async ({ ack, respond }) => {
   await respond({
     text:
 `Available Commands:
+
 /mausbot-ping - Check bot latency
 /mausbot-slopball - Ask SlopBall a question and get a random answer
 /mausbot-dice - roll a dice between 1 and 6
