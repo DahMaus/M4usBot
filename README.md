@@ -4,7 +4,7 @@ A small Slack bot featuring fun commands, random answers, coin flips and dice ro
 
 ## Showcase
 
-![M4usBot demo](./Showcase.png).gif)
+![M4usBot demo](./Showcase.png)
 
 ## Try it out
 
